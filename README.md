@@ -1,2 +1,2 @@
-# Capstone-1
-Thinkful Capstone 1 - Data Science Research
+# Experimental A/B Research
+This project is a highlight of my experimental A/B research capstone.  It highlights creating hypothesises to test in conducting experimental A/B research, exploratory data analysis, to statistical methods used to conduct the research and prove or disprove the hypothesis posed in the project.  This was done in a Juypter notebook in Python on Google Colab and then downloaded and saved here.
